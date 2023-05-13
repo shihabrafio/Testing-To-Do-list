@@ -1,5 +1,5 @@
 import './index.css';
-import updateIndexes from './update.js';
+import updateIndexes from './modules/update.js';
 
 const form = document.getElementById('form');
 const text = document.getElementById('your-todo');
